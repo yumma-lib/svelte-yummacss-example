@@ -1,38 +1,35 @@
-# create-svelte
+<h3 align="center">Yumma CSS — Svelte</h3>
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+<p align="center">
+  This is a Svelte Yumma CSS example.
+  <br>
+  <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
+  
 
-## Creating a project
+## Get started
 
-If you're seeing this, you've probably already done this step. Congrats!
+Yumma CSS is a utility-first library that uses abbreviated naming conventions that follow regular CSS syntax to help you debug, scale, and maintain your markup better and get your application out the door faster.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Installation
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+The first thing you need to do is clone the repository.
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+git clone https://github.com/yumma-lib/svelte-yummacss-example.git
 ```
 
-## Building
-
-To create a production version of your app:
+Then you can go ahead and install the dependencies.
 
 ```bash
-npm run build
+npm install
 ```
 
-You can preview the production build with `npm run preview`.
+Once that's done, you can start local development.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+npm start
+```
+
+## License
+
+This project is under the MIT License.
