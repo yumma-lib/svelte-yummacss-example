@@ -1,10 +1,9 @@
 <h3 align="center">Yumma CSS — Svelte</h3>
 
 <p align="center">
-  This is a Svelte Yumma CSS example.
+  A Svelte project with Yumma CSS.
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
-  
 
 ## Get started
 
